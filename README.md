@@ -16,3 +16,8 @@ My learning progress through the Sprints AI and ML Intermediate Track:
 
 
 **Learning Platform:** [Sprints – AI and Machine Learning Track](https://www.sprints.ai/en-eg/journeys/ai-machine-learning-intermediate-track)
+
+
+
+
+**Learning Journey Started:** October 8, 2026
