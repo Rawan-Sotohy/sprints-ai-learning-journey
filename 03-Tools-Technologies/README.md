@@ -1,8 +1,15 @@
 # Tools & Technologies
 
-This section documents the tools, technologies, frameworks, and libraries I learn and use throughout my journey. Each entry includes a brief explanation of its purpose and a direct link to its official website or documentation.
+This section documents the tools, technologies, frameworks, and libraries I learned and used throughout my AI and Machine Learning journey. Each entry includes a brief explanation of its purpose and a direct link to its official website or documentation.
 
 ## Development Tools
+
+| Tool | What I Used It For | Link |
+|---|---|---|
+| Visual Studio Code | Writing, editing, debugging, and managing Python projects. | [Official Website](https://code.visualstudio.com/) |
+| Jupyter Notebook | Writing and executing Python code interactively for data analysis and experimentation. | [Official Website](https://jupyter.org/) |
+| Git | Tracking code changes and managing project versions. | [Official Website](https://git-scm.com/) |
+| GitHub | Hosting repositories, documenting projects, and collaborating on code. | [Official Website](https://github.com/) |
 
 ## Databases
 
@@ -15,8 +22,15 @@ This section documents the tools, technologies, frameworks, and libraries I lear
 
 ## Programming & Data Tools
 
+| Tool | What I Used It For | Link |
+|---|---|---|
+| Python | Writing scripts and implementing data analysis, machine learning, and AI solutions. | [Official Website](https://www.python.org/) |
+| NumPy | Performing numerical computations and working with multidimensional arrays. | [Official Docs](https://numpy.org/doc/) |
+
 ## ML & DL Frameworks
 
+
 ## NLP & Generative AI
+
 
 > This list will grow as I explore and work with more tools and technologies.
